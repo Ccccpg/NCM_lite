@@ -1,0 +1,1 @@
+<view class="play" style="{{d}}"><text wx:if="{{a}}" class="iconfont icon-playfill" bindtap="{{b}}"></text><text wx:else class="iconfont icon-stop" bindtap="{{c}}"></text></view>

@@ -1,0 +1,1 @@
+<uni-list wx:if="{{b}}" class="data-v-02539694" u-s="{{['d']}}" u-i="02539694-0" bind:__l="__l" u-p="{{b}}"><uni-list-item wx:for="{{a}}" wx:for-item="song" wx:key="a" class="data-v-02539694" bindclick="{{song.b}}" u-i="{{song.c}}" bind:__l="__l" u-p="{{song.d}}"></uni-list-item></uni-list>

@@ -1,0 +1,1 @@
+<view class="scroll-container" style="{{c}}"><view class="scroll-text" style="{{'animation-duration:' + b}}"><text class="text">{{a}}</text></view></view>

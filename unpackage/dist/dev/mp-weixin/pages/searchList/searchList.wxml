@@ -1,0 +1,1 @@
+<song-list wx:if="{{a}}" u-i="1b54c177-0" bind:__l="__l" u-p="{{a}}"></song-list><player u-i="1b54c177-1" bind:__l="__l"></player>

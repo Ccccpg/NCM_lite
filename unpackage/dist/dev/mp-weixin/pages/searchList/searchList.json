@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "song-list": "../../components/SongList",
+    "player": "../../components/Player"
+  }
+}

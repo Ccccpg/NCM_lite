@@ -1,0 +1,1 @@
+<view class="my-progress" style="{{f}}"><movable-area class="movable-area"><movable-view x="{{a}}" direction="horizontal" class="movable-view" bindchange="{{b}}" bindtouchend="{{c}}" damping="{{100}}"></movable-view><view class="sub-line"><view class="gone" bindtouchstart="{{d}}"></view><view class="remain" bindtouchstart="{{e}}"></view></view></movable-area></view>

@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-title": "../uni_modules/uni-title/components/uni-title/uni-title",
+    "uni-popup": "../uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "play-mode": "./PlayMode",
+    "play": "./Play",
+    "my-progress": "./MyProgress",
+    "my-title": "./MyTitle"
+  }
+}
